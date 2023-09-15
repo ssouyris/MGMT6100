@@ -1,0 +1,21 @@
+##
+## Parameters
+##
+
+param m := 2;
+param n := 2;
+
+param c := 
+40
+50
+;
+
+param b := 
+40
+120
+;
+
+param a :=
+1 2
+4 3
+;
